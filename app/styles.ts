@@ -33,6 +33,7 @@ export const useContentStyle = ({ theme }: iProps) => {
       py: "20px",
       px: "14px",
       borderRadius: "14px",
+      width: { xs: "100%", md: "50%", lg: "30%" },
     },
     buttonContainer: {
       position: "absolute",
